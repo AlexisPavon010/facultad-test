@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.bg-test {
+  background-image: url('https://cdn.pixabay.com/photo/2021/07/02/06/49/dog-6381087_960_720.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
